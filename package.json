@@ -1,0 +1,25 @@
+{
+  "name": "app-back-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jairo010/StudentClubManagement-Back.git"
+  },
+  "author": "Jairo Freire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jairo010/StudentClubManagement-Back/issues"
+  },
+  "homepage": "https://github.com/Jairo010/StudentClubManagement-Back#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
